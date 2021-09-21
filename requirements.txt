@@ -1,0 +1,2 @@
+svgutils~=0.3.4
+scour~=0.38.2
